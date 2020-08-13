@@ -9,7 +9,7 @@
   <artifactId>revolsys-parent</artifactId>
   <packaging>pom</packaging>
   <name>Revolution Systems Open Library</name>
-  <version>TRUNK-SNAPSHOT</version>
+  <version>0.BCDEM-2.2.3-RELEASE</version>
   <description>The parent module of the Revolution Systems Open Library.</description>
   <url>http://revolsys.github.com/com.revolsys.open/</url>
 
@@ -554,7 +554,7 @@
     <ch.qos.logback.version>1.2.3</ch.qos.logback.version>
     <org.gdal.version>2.4.0</org.gdal.version>
     <org.graalvm.version>20.1.0</org.graalvm.version>
-    <org.jeometry.version>TRUNK-SNAPSHOT</org.jeometry.version>
+    <org.jeometry.version>0.BCDEM-2.2.3-RELEASE</org.jeometry.version>
     <org.slf4j.version>1.7.30</org.slf4j.version>
     <org.springframework.version>5.2.8.RELEASE</org.springframework.version>
     <org.springframework.security.version>5.3.4.RELEASE</org.springframework.security.version>
