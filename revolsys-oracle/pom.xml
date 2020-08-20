@@ -9,7 +9,7 @@
   <parent>
     <groupId>com.revolsys.open</groupId>
     <artifactId>revolsys-parent</artifactId>
-    <version>TRUNK-SNAPSHOT</version>
+    <version>0.BCDEM-2.2.4-RELEASE</version>
   </parent>
   <dependencies>
     <dependency>
